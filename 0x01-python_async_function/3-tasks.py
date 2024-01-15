@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Required modules"""
-from typing import Task
+from asyncio import Task
 import asyncio
 wait_random = __import__('0-basic_async_syntax').wait_random
 
